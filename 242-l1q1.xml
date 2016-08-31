@@ -49,7 +49,7 @@
       <div xml:id="242-l1q1-ggw26y">
         <gap extent="1" unit="column" reason="editorial decision" />
         <gap extent="38" unit="lines" reason="editorial decision" />
-        <p>
+        <p xml:id="242-l1q1-kshxy3">
           <pb ed="#V" n="63-r"/><cb n="b"/>
           <lb ed="#V"/> Queritur utrum de anima possit esse sciencia
           <lb ed="#V"/> et arguitur quod non de eo quod non habet speciem vel
@@ -60,7 +60,7 @@
           <lb ed="#V"/> huius quod intellectus noster nihil est actu eorum que sunt<pc type="punctus-medius">·</pc> ergo
           <lb ed="#V"/> nullam speciem intelligibilem habet et cetera<pc type="double-diagonal-stroke">//</pc>
         </p>
-        <p>
+        <p xml:id="242-l1q1-ft5qjj">
           Item si quis
           <unclear>tem<lb ed="#V"/>ptet</unclear> considerare materiam et substanciam anime statim <unclear>apperebit</unclear>
           <lb ed="#V"/> sibi quod non potest eam intelligere nisi per opera sua hoc
@@ -68,19 +68,19 @@
           <lb ed="#V"/> nullam formam intelligibilem habet in actu de anima<pc type="punctus-medius">·</pc> ergo
           <lb ed="#V"/> non potest esse sciencia.
         </p>
-        <p>
+        <p  xml:id="242-l1q1-jcythg">
           Item de singularibus non est sciencia<pc type="punctus-medius">·</pc> set
           <lb ed="#V"/> anime humane sunt singulares et <unclear>numerate numeracione</unclear>
           <lb ed="#V"/> corporum et cetera
         </p>
-        <p>
+        <p  xml:id="242-l1q1-reohsv">
           Item de eo non potest esse sciencia cui non competit
           <lb ed="#V"/> racio subiecti<pc type="punctus">.</pc> set anime non competit racio <add place="left-margin">subiecti et non est per se subsistens</add> et cetera<pc type="punctus">.</pc> maior patet de se minor
           <lb ed="#V"/> probatur quia de racione subiecti<pc type="punctus">.</pc> quia de racione subiecti est quod habeat
           <lb ed="#V"/> partes et passiones quibus subsistet anima autem non
           <lb ed="#V"/> est huiusmodi cum sit forma sumplex
         </p>
-        <p>
+        <p  xml:id="242-l1q1-9mvjnq">
           Item <unclear>amt(r)</unclear> sciencia nostra habet
           <lb ed="#V"/> ortum a sensu de illo ergo quod nec per se nec per accidens
           ca<lb ed="#V"/>dere potest sub sensu non est sciencia<pc type="punctus">.</pc> anima solum intellectiva
@@ -88,7 +88,7 @@
           <lb ed="#V"/> quia hoc esset per actum suum<pc type="punctus">.</pc> set eius operacio est separata
           <lb ed="#V"/> sic et substancia quia non transit in materiam <unclear>extra</unclear> et cetera.
         </p>
-        <p>
+        <p  xml:id="242-l1q1-jnrd0k">
           <add place="margin-left">
             Item omnis sciencia <unclear>est</unclear> de bono
             <lb ed="#V"/> anima non est <unclear>aliquod bonum</unclear> ergo
@@ -101,7 +101,7 @@
             <lb ed="#V"/> <unclear>appetitur</unclear> quare et cetera
           </add>
         </p>
-        <p>
+        <p xml:id="242-l1q1-wcqown">
           Oppositum
           <lb ed="#V"/> patet per philosophum et arguitur<pc type="punctus-medius">·</pc> de eo quod habet diffinicionem proprietates et
           <lb ed="#V"/> passiones que possunt probari de ipso potest esse sciencia
@@ -118,7 +118,7 @@
           <lb ed="#V"/> convenit intellectu possibili et abstrahere quod inest agenti
           <lb ed="#V"/> et cetera
         </p>
-        <p>
+        <p xml:id="242-l1q1-68rnjd">
           Intelligendum est quod de anima potest esse sciencia sicut
           <lb ed="#V"/> enim probat proclus omne in corporeum est conversivum sui ipsius
           <lb ed="#V"/> ab se ipsum<pc type="punctus">.</pc> hoc est quia non habet distancias parcium
@@ -145,7 +145,7 @@
           <lb ed="#V"/> autem intelligendo cognicionem habet de anima patet ideo per animam
           <lb ed="#V"/> nostram possimus habere cognicionem de anima.
         </p>
-        <p>
+        <p xml:id="242-l1q1-t9o6b1">
           Set advertendum
           <lb ed="#V"/> quod licet anima nostra possit habere cognicionem de se ipsa prius
           <lb ed="#V"/> tamen oportet quod habeat cognicionem de aliis quam de se ipsa et racio huius
@@ -182,7 +182,7 @@
           <lb ed="#V"/> dependet ex cognicione ipsius anime propter quod etiam philosophus concludit
           <lb ed="#V"/> quod utilis est hec sciencia ad <del rend="expunctuated">d</del> omnium veritatem et cetera
         </p>
-        <p>
+        <p xml:id="242-l1q1-al2yfv">
           ulterius
           <lb ed="#V"/>intelligendum quod philosophus tercio huius dicit quod intellectus intelligit se ut alia
           <lb ed="#V"/> et hoc non est intelligendum quod intellectus intelligit se ut alia
@@ -191,7 +191,7 @@
           <lb ed="#V"/> quod per speciem alienam ducatur in actu et tunc se intelligit
           <lb ed="#V"/> per speciem propriam
         </p>
-        <p>
+        <p xml:id="242-l1q1-uerqt2">
           Et <unclear>cum</unclear> dices quomodo intelliget se
           <lb ed="#V"/> per speciem propriam <unclear>dictum</unclear> quod ut visum est species <unclear>aliter</unclear> que
           du<lb ed="#V"/>cit ipsum ad actum de potentia que species fiat unum cum
@@ -200,7 +200,7 @@
           <lb ed="#V"/> <unclear>habet</unclear> unum ex specie intelligibili et ipso intelligibili<pc type="punctus">.</pc> ideo dicitur se
           <lb ed="#V"/> intelligere per propriam speciem et cetera
         </p>
-        <p>
+        <p xml:id="242-l1q1-4wroro">
           Ad raciones
         </p>
      </div>
