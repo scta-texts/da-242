@@ -130,19 +130,19 @@
           <lb ed="#V"/> postea aliam et nunc pertransit <unclear>totam</unclear> magnitudinem in tempore
           <lb ed="#V"/> et succesive sic si intellectus esset magnitudo tunc intelligibile
           <lb ed="#V"/> tangens <unclear>intellectum</unclear> sive per speciem sive per aliquid aliud prius
-          <seg type="correction">pertrans<lb ed="#V"/>si<add place="above-line">e</add>t</seg> unam partem intellectus uam aliam et ita actus completus intelligendi
+          <seg type="correction">pertrans<lb ed="#V"/>si<add place="above-line">e</add>t</seg> unam partem intellectus quam aliam et ita actus completus intelligendi
           <lb ed="#V"/> non faciat in nobis nisi in generacione magis temporis et ex
           <lb ed="#V"/> hoc sequeretur quod intellectus esset sciens et ignorans quia secundum
           <lb ed="#V"/> unam partem cognosceret aliquid et secundum aliam illud idem ignoraret
           <lb ed="#V"/> sic etiam sequeretur quod intellectus posset simul multa et
-          <lb ed="#V"/> contraria intelligere quod est inconveniens<pc type="punctus">.</pc> non enim est possibili quod intellectus
-          <lb ed="#V"/> noster simul intelligat plura et contraria<pc type="horizontal-stroke">|</pc> intellectus igitur noster est
+          <lb ed="#V"/> contraria intelligere quod est inconveniens<pc type="punctus">.</pc> non enim est possibile quod intellectus
+          <lb ed="#V"/> noster simul intelligat plura et contraria <pc type="horizontal-stroke">|</pc> intellectus igitur noster est
           <unclear>in<lb ed="#V"/>corporeus</unclear> et per consequens est conversivus sui ipsius ad se ipsum
           <cb ed="#V" n="b"/>
           <lb ed="#V"/> ipsa autem anima non est conversiva sui ipsius ad se ipsam
           <lb ed="#V"/> nisi intelligendo suam substanciam et proprietates sibi inherentes
-          <lb ed="#V"/> est ideo anima nostra se et alias reas intelligere potest<pc type="punctus">.</pc> sic
-          <lb ed="#V"/> autem intelligendo cognacionem <!-- for cognicionem --> habet det anima patet ideo per animam
+          <lb ed="#V"/> et ideo anima nostra se et alias reas intelligere potest<pc type="punctus">.</pc> sic
+          <lb ed="#V"/> autem intelligendo cognicionem habet de anima patet ideo per animam
           <lb ed="#V"/> nostram possimus habere cognicionem de anima.
         </p>
         <p>
@@ -159,11 +159,11 @@
           <lb ed="#V"/> ex fantasmatibus intellectus igitur <unclear>in actu</unclear> presupponit <add place="right-margin"><del rend="expunctuated"><unclear>fium</unclear></del> fantasiam in actu fantasia autem in actu presupponit</add> sensum in actu
           <lb ed="#V"/> fantasia enim est modus factus a sensibili <add place="right-margin">secundum actum</add> <del rend="expunctuated">factum</del> ut dicitur secundo
           <lb ed="#V"/> huius<pc type="punctus-medius">·</pc> sensus autem in actu presupponit ea quorum
-          <lb ed="#V"/> est sensus in actu <unclear>xun</unclear> est ergo quod quuemcumque cognicionem habet intellectus
+          <lb ed="#V"/> est sensus in actu <unclear>xun</unclear> est ergo quod quemcumque cognicionem habet intellectus
           <lb ed="#V"/> noster illius scibilis <unclear>primo erit</unclear> sensus in actu<pc type="punctus">.</pc> si ergo anima non cadat
           <lb ed="#V"/> sub sensu manifestum est quod anima non potest habere primo cognicionem de se
           <lb ed="#V"/> ipsam<pc type="punctus">.</pc> set oportet quod prius <seg type="correction">habe<add place="above-line">a</add>t</seg> cognicionem ipsorum que cadunt
-          <lb ed="#V"/> sub sensu<pc type="punctus">.</pc> set ulterius quand anima sic acquisivit cognicionem
+          <lb ed="#V"/> sub sensu<pc type="punctus">.</pc> set ulterius quando anima sic acquisivit cognicionem
           <lb ed="#V"/> de aliis sensibilibus postea scit se habere cognicionem de illis cognoscit
           <lb ed="#V"/> operacionem sibi propriam<pc type="punctus">.</pc> <space extent="3" unit="letters"/> et quia operacio ducit in cognicionem
           <lb ed="#V"/> substancie<pc type="punctus">.</pc> ideo ex huius modi quod anima cognoscit operacionem sibi
@@ -173,14 +173,14 @@
           <lb ed="#V"/> omnis cognicio nostra incipiat a sensibilibus non tamen <unclear>sbtrait</unclear> et
           <lb ed="#V"/> <unclear>terminat</unclear> ad sensibilia sed anima ulterius extollitur ad cognoscendum
           <lb ed="#V"/> se ipsam et hoc in quantum se cognoscit <unclear>negari</unclear> circa quiditates
-          <lb ed="#V"/> sensibilium <unclear>intelligendo</unclear> et cognoscendo quoditates eorum et quia
+          <lb ed="#V"/> sensibilium <unclear>intelligendo</unclear> et cognoscendo quiditates eorum et quia
           <lb ed="#V"/> anima cognoscit se sic <unclear>negari</unclear> circa quiditates sensibilium percipit
-          <lb ed="#V"/> suam operacionem et deinde substantiam habet sui ipsius cogniscionem isto
-          <lb ed="#V"/> igitur modo devenit anima in cognicionem sui ipsius et hoc <unclear>ut()m</unclear>
+          <lb ed="#V"/> suam operacionem et deinde substantiam habet sui ipsius cognicionem isto
+          <lb ed="#V"/> igitur modo devenit anima in cognicionem sui ipsius et hoc <unclear>actum</unclear>
           <lb ed="#V"/> fuit ponere quia secundum themistium anima de se incerta de
-          <lb ed="#V"/> aliis <add place="right-margin"><unclear>commune</unclear></add> <unclear>viticabritur enim de quod nullo modo</unclear> <unclear>undo</unclear> <add place="right-margin">cognicio</add> eorum
+          <lb ed="#V"/> aliis <add place="right-margin"><unclear>commune</unclear></add> <unclear>viticabritur enim de quod nullo modo</unclear> <unclear>unde</unclear> <add place="right-margin">cognicio</add> eorum
           <lb ed="#V"/> dependet ex cognicione ipsius anime propter quod etiam philosophus concludit
-          <lb ed="#V"/> quod utilis est hec sciencia ad <del rend="expunctuated">d</del> omnium <unclear>niteatem</unclear> et cetera
+          <lb ed="#V"/> quod utilis est hec sciencia ad <del rend="expunctuated">d</del> omnium veritatem et cetera
         </p>
         <p>
           ulterius
@@ -196,7 +196,7 @@
           <lb ed="#V"/> per speciem propriam <unclear>dictum</unclear> quod ut visum est species <unclear>aliter</unclear> que
           du<lb ed="#V"/>cit ipsum ad actum de potentia que species fiat unum cum
           <lb ed="#V"/> ipso non sicut forma cum materia nec ut accidens cum subiecto set sicut
-          <lb ed="#V"/> lumen <del rend="expunctuated">est</del> cum perspcuo ut <unclear>ıııt()ca</unclear> dicet commentator quia igitur
+          <lb ed="#V"/> lumen <del rend="expunctuated">est</del> cum perspicuo ut <unclear>ıııt()ca</unclear> dicet commentator quia igitur
           <lb ed="#V"/> <unclear>habet</unclear> unum ex specie intelligibili et ipso intelligibili<pc type="punctus">.</pc> ideo dicitur se
           <lb ed="#V"/> intelligere per propriam speciem et cetera
         </p>
