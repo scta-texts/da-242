@@ -380,8 +380,258 @@
           </div>
         </div>
         <div type="ad-rationes">
-          <p xml:id="242-l1q1-4wroro">
-            Ad raciones
+          <p xml:id="vatican_242-l1q1-i1z6yl">
+            Ad rationes.
+          </p>
+          <div type="ad-rationes" n="1">
+            <p xml:id="vatican_242-l1q1-oxpzce">
+              Ad primam cum arguitur <mentioned>de eo quod non haberi
+              formam</mentioned> et cetera, dico quod de illo quod <pb ed="#V"
+              n="64-r"/><cb ed="#V" n="a"/> de se non habet formam
+              intelligibilem in actu, non potest esse scientia. Et quando
+              dicitur quod <mentioned>intellectus non habet formam
+              intelligibilem</mentioned> et <supplied>cetera</supplied> <name
+              ref="#Themistius">Themistius</name> <unclear>similiter</unclear>
+              illud verbi
+              <cit>
+                <ref>
+                  <name ref="#Aristotle">Philosophi</name>:
+                </ref>
+                <quote>
+                  Intellectus nihil est actu eorum que sunt ante addiscere vel
+                  invenire
+                </quote>
+                <bibl ana="Arist.DA.3-4-429b29" />
+              </cit>
+              . Dicit rediculum erit intelligere quia anima nihil sit in actu
+              eorum que sunt, ac si intellectus non sit illud quod ipsum erit,
+              planum est enim quod intellectus est illud quod est, quia est
+              natura aliqua, et substantia non ergo dicitur sic non esse
+              <app>
+                <lem type="conjecture-deletion" n="esse" />
+                <rdg wit="#V">in</rdg>
+              </app>
+              <app>
+                <lem n="esse" />
+                <rdg wit="#V" type="correction-deletion">
+                  <del>aliqua</del>
+                </rdg>
+              </app>
+              in actu, quia non
+              <app>
+                <lem>sit</lem>
+                <rdg wit="#V" type="correction-substitution">
+                  <subst>
+                    <del rend="expunctuation">sunt</del>
+                    <add>sit</add>
+                  </subst>
+                </rdg>
+              </app>
+              aliqua substantia
+              <app>
+                <lem n="substantia" />
+                <rdg wit="#V" type="correction-deletion">
+                  <del rend="expucntuation">in</del>
+                </rdg>
+              </app>
+              , et natura est enim substantia in actu, sed intellectus noster se
+              habet ad formas intelligibiles sicut materia se habet ad formas
+              sensibiles. Materia autem secundum se et secundum suam naturam
+              considerata non est aliquod sensibilium in actu nihilominus
+              materia, ut consideratur in actu, et sub forma est aliquid
+              sensibilium. Similiter est de intellectu, quod intellectus noster
+              non est aliquid intelligibile in actu, sed hoc solum quod potest
+              recipere omnes formas intelligibiles, hoc enim solum habet quod
+              sit possibilis vocatus, ut dicit <name
+              ref="#Aristotle">Philosophus</name> tertio huius, sed statim cum
+              acquisiverit formam intelligibilem propter speciem quam habet
+              penes se, tunc etiam quod per eandem speciem ipsa anima fit anima
+              intelligibilis et ideo non est intellectum nisi per speciem
+              aliorum intelligibilium, et hoc est quod dicit <name
+              ref="#Aristotle">Philosophus</name> tertio huius. Anima ergo,
+              quantum est de se, non est
+              <app>
+                <lem>aliquod</lem>
+                <rdg wit="#V"><add place="left-margin">aliquod</add></rdg>
+              </app>
+              intelligible in actu. <gap extent="1" unit="characters"
+              reason="illegible" /> autem est aliquod intelligibile in actu per
+              ipsam speciem, ipsa fit in actu intelligibilis, et cum de eo quod
+              est in actu inelligibile sit scientia, ideo de ipsa est scientia
+              propter quod bene dictum est a principio quod ipsa anima numquam
+              est intelligibilis primo, sed postquam apprehendit alias res
+              apprehendit se ipsam.
+            </p>
+          </div>
+          <div type="ad-rationes" n="2">
+          <p xml:id="vatican_242-l1q1-kwv80g">
+            Ad aliam, cum dicitur <mentioned>de singularibus non est
+            scientia</mentioned>, verum est ut sic, et tu dices
+            <mentioned>animae humanae</mentioned> et cetera, verum est. Et ideo
+            de eis, ut sic non est scientia, tamen de singularibus animabus, ut
+            conveniunt in natura communi animae, est scientia, et sic patet ad
+            illud.
+          </p>
+          </div>
+          <div type="ad-rationes" n="3">
+          <p xml:id="vatican_242-l1q1-epx89m">
+            Ad aliam dicendum concedendo maiorem. Ad minorem dicendum quod
+            <unclear>singularitas/simplicitas</unclear> animae, cum sit
+            <unclear>visum</unclear> <unclear>simpli<abbr
+            type="superscript">cio</abbr></unclear>, non repugnat ratio
+            subiecti, ut patiat, neque etiam oportet ad hoc quod aliquid sit
+            subiectum quod sit per se subsistens, sed sufficit quod sit
+            subiectum respectu passionum.
+          </p>
+          </div>
+          <!-- The count of rationes is off somewhere! -->
+          <div type="ad-rationes" n="4">
+            <p xml:id="vatican_242-l1q1-gtv45e">
+              Ad maiorem ultimae dicendum quod verum est primo, et cum dicitur
+              <mentioned>illud ergo quod non cadit sub sensu</mentioned> et cetera
+              non oportet, sed sufficit quod moveatur ab illo vel specie illius,
+              quod cadit sub sensu, et sic est proposito ut ostensum est prius et
+              cetera.
+            </p>
+          </div>
+          <div type="ad-rationes" n="6">
+            <p xml:id="vatican_242-l1q1-huz5y7">
+              <add place="left-margin">
+                Ad aliud <mentioned>omnis scientia est de bono</mentioned> et
+                cetera, verum est ad minorem. Dico quod duplex bonum
+                <gap extent="2" unit="lines" reason="reproduction" />
+                <unclear>apparentia</unclear>
+                <gap extent="4" unit="lines" reason="reproduction" />
+                <gap extent="2" unit="characters" reason="reproduction" />
+                bonum
+                <gap extent="1" unit="lines" reason="reproduction" />
+              </add>
+            </p>
+          </div>
+          <p xml:id="vatican_242-l1q1-pjfhzy">
+            Et notandum quod secundum
+            <app>
+              <lem n="secundum" />
+              <rdg wit="#V">
+                <del rend="expunctuation">Averroi</del>
+              </rdg>
+            </app>
+            <name ref="#Averroes">Averroem</name> in prooemio isto <name
+            ref="#Aristotle">Philosophus</name> intendit nos invitare ad amorem
+            scientiae huius libri, ut ei studium impendamus, et hoc philosophus
+            facere nititur per quatuor quae hic inducit. Ostendit enim primo
+            dignitatem et mirabilitatem et honorabilitatem huius scientiae.
+            Secundo ostendit eius utilitatem ibi <quote>videtur autem</quote> et
+            in hiis duobus ipse reddit auditores benevolos. Tertio ostendit
+            modum procedendi circa huius libri scientiam, et in hoc ipse reddit
+            auditores dociles ibi <quote>inquirimus autem</quote>. Quarto autem
+            inducit nos ad amorem huius scientiae per huius scientiae
+            difficultatem, et in hoc ipse reddit auditores attentos ibi
+            <quote>omnino autem</quote>.
+          </p>
+          <p xml:id="vatican_242-l1q1-22jvug">
+            Et intelligendum quod prius ad praesens duobus modis dicitur uno
+            modo ordine dignitatis, et sic scientia libri de anima in primis
+            debet poni, secundum quod dicit <name
+            ref="#Aristotle">Philosophus</name> super excepta metaphysica quia,
+            ut dicit <name ref="#Averroes">Averroes</name>, illa ordine
+            dignitatis <pb ed="#V" n="64-r"/><cb ed="#V" n="b"/> prima est. Alio
+            modo dicitur aliquid prius ordine doctrine, et sic liber de anima
+            primus non est, immo sextus.
+          </p>
+          <p>
+            Primus enim inter libros naturales est liber <title
+            ref="#Arist.Phys">Physicorum</title>, qui dictus est liber
+            <app>
+              <lem n="liber" />
+              <rdg wit="#V">physicorum</rdg>
+            </app>
+            de mobili secundum quod mobile absolute, et de omnibus hiis quae
+            attribuuntur motui secundum quod motus. Secundus autem liber est
+            liber <title ref="#Arist.Cael">De caelo</title> qui
+            <unclear>sit</unclear>, ut dictus, de mobili in communitate accepto,
+            sed de mobili contracto<note>almost "contradicto"</note> ad ubi sive
+            ad motum localem, qui prior est inter omnes motus alios secundum
+            quod apparet in <unclear>predicamentis/predictis</unclear> multa
+            enim moventur hoc motu quae non moventur aliquo alio motu, sicut
+            patet in motu celi, sed hoc non est econverso. Tertius liber est
+            <title ref="#Arist.GC">De generatione</title> qui dictus de ente
+            mobili ad formam elimenti secundum quod elementum est. Quartus autem
+            est <title ref="#Arist.Met">Meteorum</title>, qui dictus de ente
+            mobili ad formam elimenti sub ratione qua tale et speciale
+            elementum, ut aqua vel ignis et cetera. Quintus est liber <title
+            ref="xxx">De mineralibus</title>, quem non habemus a <name
+            ref="#Aristotle">Philosopho</name> sed ab altero, in quo
+            determinatur de ente mobili ad formam mixti secundum quod mixtum
+            est, ut de natura et generatione lapidum et metallorum et cetera.
+            Sextus autem est liber <title ref="#Arist.DA">De anima</title> qui
+            dictus de ente mobili ad formam mixti non absolute sed mixti
+            <app>
+              <lem n="mixti" />
+              <rdg wit="#V"><del rend="expunctuation">generati</del></rdg>
+            </app>
+            animati, ut apparet. Propter quod etiam in hoc libro <name
+            ref="#Aristotle">Philosophus</name> supponit aliqua a libro <title
+            ref="#Arist.Phys">Physicorum</title>, <title ref="#Arist.CG">De
+            generationes</title> et aliis, licet raro et cetera.
+          </p>
+          <p>
+            Et quod ille sit debitus ordo patet quia secundum <name
+            ref="#Aristotle">Philosophus</name> secundo <title
+            ref="#Arist.Phys">Physicorum</title> innate in nobis
+            <app>
+              <lem>ut</lem>
+              <rdg wit="#V"><add place="above-line">ut</add></rdg>
+            </app>
+            a communioribus ad
+            <app>
+              <lem n="ad" />
+              <rdg wit="#V"><del rend="expunctuation">o</del></rdg>
+            </app>
+            magis specialia procedamus. Modo motus ad formam mixti animati
+            praesupponit motum mixti absolute, et hoc presupponit motum elimenti
+            talis, et hoc ulterius motus ad formam elimenti unde elementum est,
+            et ultimus motus ad formam elimenti praesupponit motum localem, et
+            motus localis motus simplicter et cetera. Et propter hoc liber
+            <title ref="#Avic.DA">De anima</title> <name
+            ref="#Avicenna">Avicennae</name>, cum sextus sit in ordine, vocatur
+            communiter <title>Sextus naturalium</title> et cetera.
+          </p>
+          <p xml:id="vatican_242-l1q1-wuuxmt">
+            Ulterius notandum quod de passionibus propriis et communibus
+            tripliciter exponitur. Uno modo ita quod per passiones proprias
+            intelligere possumus illas quae insunt animae principaliter, ut
+            speculatio et intelligentia. Secundum <name
+            ref="#Themistius">Themistium</name> communes autem quae
+            principaliter attribuntur corpori sicut <unclear>de??catio</unclear>
+            tristitia et cetera, et hoc modo videtur exponere <name
+            ref="#Themistius">Themistius</name>.
+          </p>
+          <p xml:id="vatican_242-l1q1-h699nk">
+            Aliis modis exponit <name ref="#Averroes">Averroes</name>, ita quod
+            passiones proprias possumus intelligere quae non sunt permixtae
+            organo corporeo, ut intelligere, speculari. Per communes autem illas
+            quae fiunt et exercentur organo corporali, ut sensus, fantasia.
+            Tertio modo per passiones communes intelligimus illas quae incipiunt
+            a corpore et terminantur ad animam, ut sompnus et vigilia. In
+            dormiente enim primo ligatur cor, quod est principium vitae, et ex
+            consequenti omnes sensus exteriores cordi deservientes et cetera.
+            Passiones autem proprie dicuntur quae insipiunt ab anima et
+            terminantur ad corpus, ut intelligere, speculari et cetera.
+          </p>
+          <p xml:id="vatican_242-l1q1-wcfn2y">
+            Et nota quod dicit <name ref="#Aristotle">Philosophus</name>
+            <quote>notitiam</quote> et non scientiam, quia scientia proprie
+            habet esse per causam, ut patet primo <title
+            ref="#Arist.APo">Posteriorum</title>, et quia anima solum
+            cognoscitur per effectus et cetera.
+          </p>
+          <p xml:id="vatican_242-l1q1-fv2wg4">
+            Iterum, propter eandem causam dixit <quote>historia
+            <unclear>animalium</unclear></quote> et propter hoc etiam quod ante
+            tempus suum historia <abbr
+            type="superscript"><unclear>se/ce</unclear></abbr> fuit scripta et
+            cetera
           </p>
         </div>
       </div>
