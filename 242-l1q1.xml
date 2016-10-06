@@ -55,19 +55,19 @@
           </p>
           <div type="rationes-principales" n="1">
             <p>
-              De eo quod non habet speciem vel formam intelligibilem non potest esse
-              sciencia. Sed anima non habet speciem vel formam intelligibilem, et
-              cetera. Maior patet quia scientia <pb ed="#V" n="63-v"/><cb ed="#V"
-              n="a"/> non est nisi de intelligibili. Minor patet: <name
-              ref="#Aristotle">Philosophus</name> enim dicit tertio huius quod
-              intellectus noster nihil est actu eorum quae sunt, ergo nullam speciem
-              intelligibilem habet, et cetera.
+              De eo quod non habet speciem vel formam intelligibilem non potest
+              esse sciencia. Sed anima non habet speciem vel formam
+              intelligibilem, et cetera. Maior patet quia scientia <pb ed="#V"
+              n="63-v"/><cb ed="#V" n="a"/> non est nisi de intelligibili. Minor
+              patet: <name ref="#Aristotle">Philosophus</name> enim dicit tertio
+              huius quod intellectus noster nihil est actu eorum quae sunt, ergo
+              nullam speciem intelligibilem habet, et cetera.
             </p>
           </div>
           <div type="rationes-principales" n="2">
             <p xml:id="242-l1q1-ft5qjj">
-              Item, si quis
-              temptet considerare materiam et substantiam animae, statim apperebit
+              Item, si quis temptet considerare materiam et substantiam animae,
+              statim apperebit
               <app>
                 <lem type="conjecture-corrected">ei</lem>
                 <rdg wit="#V">sibi</rdg>
@@ -75,8 +75,8 @@
               quod non potest eam intelligere nisi per opera sua. <surplus>Hoc
               non est nisi per opera sua<note>se in other color and illegible
               character in same color above line</note></surplus> Hoc non est
-              nisi quia ipsa anima nullam formam intelligibilem habet in actu. De
-              anima ergo non potest esse scientia.
+              nisi quia ipsa anima nullam formam intelligibilem habet in actu.
+              De anima ergo non potest esse scientia.
             </p>
           </div>
           <div type="rationes-principales" n="3">
@@ -92,7 +92,9 @@
               <app>
                 <lem>subiecti, et non est per se subsistens</lem>
                 <rdg wit="#V" type="correction-addition">
-                  <add place="left-margin">subiecti, et non est per se subsistens</add>
+                  <add place="left-margin">
+                    subiecti, et non est per se subsistens
+                  </add>
                 </rdg>
               </app>
               , et cetera. Maior patet de se. Minor probatur quia de ratione
@@ -184,7 +186,10 @@
               enim probat
               <cit>
                 <ref><name ref="#Proclus">Proclus</name></ref>:
-                <quote>omne incorporeum est conversivum sui ipsius ab se ipsum</quote>.
+                <quote>
+                  omne incorporeum est conversivum sui ipsius ab se ipsum
+                </quote>
+                .
                 <bibl><name>Proclus</name> XXX</bibl>
               </cit>
               Hoc est quia non habet distantias partium. Corporeum autem non, et
