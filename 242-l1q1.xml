@@ -309,7 +309,7 @@
                   operacionem et deinde veram habet sui ipsius cognicionem.
                 </quote>
                 <bibl>
-                  <name>Albertus Magnus</name>, <title>De anima</title>, Lib. 1,
+                  <name>Albertus Magnus</name>, <title ref="#Albert.De-anima">De anima</title>, Lib. 1,
                   tract. 1, cap. 1, pp. 2--3, ll. 52--5
                 </bibl>
               </cit>
@@ -565,9 +565,9 @@
             est <title ref="#Arist.Met">Meteorum</title>, qui dictus de ente
             mobili ad formam elimenti sub ratione qua tale et speciale
             elementum, ut aqua vel ignis et cetera. Quintus est liber <title
-            ref="xxx">De mineralibus</title>, quem non habemus a <name
-            ref="#Aristotle">Philosopho</name> sed ab altero, in quo
-            determinatur de ente mobili ad formam mixti secundum quod mixtum
+            ref="#Albert.De-mineralibus">De mineralibus</title>, quem non
+            habemus a <name ref="#Aristotle">Philosopho</name> sed ab altero, in
+            quo determinatur de ente mobili ad formam mixti secundum quod mixtum
             est, ut de natura et generatione lapidum et metallorum et cetera.
             Sextus autem est liber <title ref="#Arist.DA">De anima</title> qui
             dictus de ente mobili ad formam mixti non absolute sed mixti
@@ -577,7 +577,7 @@
             </app>
             animati, ut apparet. Propter quod etiam in hoc libro <name
             ref="#Aristotle">Philosophus</name> supponit aliqua a libro <title
-            ref="#Arist.Phys">Physicorum</title>, <title ref="#Arist.CG">De
+            ref="#Arist.Phys">Physicorum</title>, <title ref="#Arist.GC">De
             generationes</title> et aliis, licet raro et cetera.
           </p>
           <p>
@@ -598,9 +598,10 @@
             talis, et hoc ulterius motus ad formam elimenti unde elementum est,
             et ultimus motus ad formam elimenti praesupponit motum localem, et
             motus localis motus simplicter et cetera. Et propter hoc liber
-            <title ref="#Avic.DA">De anima</title> <name
+            <title ref="#Avic.De-anima">De anima</title> <name
             ref="#Avicenna">Avicennae</name>, cum sextus sit in ordine, vocatur
-            communiter <title>Sextus naturalium</title> et cetera.
+            communiter <title ref="#Avic.De-anima">Sextus naturalium</title> et
+            cetera.
           </p>
           <p xml:id="vatican_242-l1q1-wuuxmt">
             Ulterius notandum quod de passionibus propriis et communibus
