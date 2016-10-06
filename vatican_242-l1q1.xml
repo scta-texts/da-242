@@ -204,7 +204,7 @@
         <p xml:id="vatican_242-l1q1-i1z6yl">
           Ad raciones
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-oxpzce">
           Ad primam cum
           <lb ed="#V"/> arguitur de eo quod non haberi formam et cetera<pc type="punctus">.</pc> Dico quod de illo quod
           <pb ed="#V" n="64-r"/><cb ed="#V" n="a"/>
@@ -239,28 +239,28 @@
           <lb ed="#V"/> est a principio quod ipsa anima numquam est intelligibilis primo<pc type="punctus-medius">·</pc> sed postquam
           <lb ed="#V"/> apprehendit alias res apprehendit se ipsam
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-kwv80g">
           ad aliam
           <lb ed="#V"/> cum dicitur de singularibus non est scientia verum est ut sic et tu
           <lb ed="#V"/> dices animae humanae et cetera<pc type="punctus-medius">·</pc> verum est et ideo de eis ut
           <lb ed="#V"/> sic non est scientia<pc type="punctus">.</pc> tamen de singularibus animabus ut conveniunt
           <lb ed="#V"/> in natura communi animae est scientia et sic patet ad illud
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-epx89m">
           <pc type="pilcrow">¶</pc> Ad aliam
           <lb ed="#V"/> dicendum concedendo maiorem ad minorem dicendum quod <unclear>singularitas/simplicitas</unclear> animae cum sit
           <unclear>vifum</unclear> <unclear>simpli<abbr type="superscript>cio</abbr></unclear> non repugnat ratio subiecti ut patiat
           <lb ed="#V"/> neque etiam oportet ad hoc quod aliquid sit subiectum quod sit per se subsistens
           <lb ed="#V"/> sed sufficit quod sit subiectum respectu passionum
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-gtv45e">
          <pc type="pilcrow">¶</pc> Ad maiorem
          <lb ed="#V"/> ultimae dicendum quod verum est primo et cum dicitur<pc type="punctus-medius">·</pc> illud ergo quod non cadit sub
          <lb ed="#V"/> sensu et cetera non oportet<pc type="punctus-medius">·</pc> sed sufficit quod moveatur ab illo
          <lb ed="#V"/> vel specie illius quod cadit sub sensu et sic est proposito ut
          <lb ed="#V"/> ostensum est prius et cetera
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-huz5y7">
           <add place="left-margin">
             Ad aliud omnis scientia
             <lb ed="#V"/> est de bono et cetera
@@ -275,7 +275,7 @@
             <gap extent="1" unit="lines" reason="reproduction" />
           </add>
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-pjfhzy">
          <pc type="pilcrow">¶</pc> Et notandum quod secundum <del rend="expunctuation">averroyi</del> averroyem
          <lb ed="#V"/> in prohemio isto philosphus intendit nos invitare ad
          a<lb ed="#V"/>morem scienciae huius libri ut ei studium impendamus et hoc
@@ -288,7 +288,7 @@
          indu<lb ed="#V"/>cit nos ad amorem huius sciencie per huius sciencie difficultatem
          <lb ed="#V"/> et in hoc ipse reddit auditores attentos ibi <quote>omnino autem</quote>
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-22jvug">
          <pc type="pilcrow">¶</pc> Et intelligendum quod prius ad presens duobus modis
          <lb ed="#V"/> dicitur uno modo ordine dignitatis et sic scientia libri de
          <lb ed="#V"/> anima imn primis debet poni secundum quod dicit philosophus super
@@ -326,7 +326,7 @@
          <lb ed="#V"/> et cetera<pc type="punctus">.</pc> et propter hoc liber de anima avicennae cum sextus sit
          <lb ed="#V"/> in ordine vocatur communiter sextus naturalium et cetera.
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-wuuxmt">
          <pc type="pilcrow">¶</pc> Ulterius
          <lb ed="#V"/> notandum quod de passionibus propriis et communibus tripliciter exponitur
          <lb ed="#V"/> uno modo ita quod per passiones proprias intelligere
@@ -335,7 +335,7 @@
          attribu<lb ed="#V"/>untur corpori sicut <unclear>de??catio</unclear> tristitia et cetera et hoc modo videtur
          <lb ed="#V"/> exponere themistius<pc type="punctus">.</pc>
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-h699nk">
          <pc type="pilcrow">¶</pc> Aliis modis exponit averrois
          <lb ed="#V"/> ita quod passiones proprias possumus intelligere que non sunt
          <lb ed="#V"/> permixte organo corporeo<pc type="punctus-medius">·</pc> ut intelligere speculari
@@ -348,13 +348,13 @@
          pas<lb ed="#V"/>siones autem proprie dicuntur que insipiunt ab anima et
          <lb ed="#V"/> terminantur ad corpus ut intelligere speculari et cetera
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-wcfn2y">
          <pc type="pilcrow">¶</pc> Et
          <lb ed="#V"/> nota quod dicit philosophus notitiam et non scientiam quia scientia proprie
          <lb ed="#V"/> habet esse per causam ut patet primo posteriorum<pc type="punctus-medius">·</pc> et quia anima solum
          <lb ed="#V"/> cognoscitur per effectus et cetera
         </p>
-        <p>
+        <p xml:id="vatican_242-l1q1-fv2wg4">
          <pc type="pilcrow">¶</pc> Iterum propter eandem
          <lb ed="#V"/> causam dixit <quote>hystoria <unclear>animalium</unclear></quote> et propter hoc etiam quod ante tempus
          <lb ed="#V"/> suum historia <abbr type="superscript"><unclear>se/ce</unclear></abbr> fuit scripta et cetera
