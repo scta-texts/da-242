@@ -72,11 +72,16 @@
                 <lem type="conjecture-corrected">ei</lem>
                 <rdg wit="#V">sibi</rdg>
               </app>
-              quod non potest eam intelligere nisi per opera sua. <surplus>Hoc
-              non est nisi per opera sua<note>se in other color and illegible
-              character in same color above line</note></surplus> Hoc non est
-              nisi quia ipsa anima nullam formam intelligibilem habet in actu.
-              De anima ergo non potest esse scientia.
+              quod non potest eam intelligere nisi per opera sua.
+              <app>
+                <lem n="sua" />
+                <rdg wit="#V">
+                  hoc non est nisi per opera sua <note>'se' in other color and
+                  illegible character in same color above line</note>
+                </rdg>
+              </app>
+              Hoc non est nisi quia ipsa anima nullam formam intelligibilem
+              habet in actu. De anima ergo non potest esse scientia.
             </p>
           </div>
           <div type="rationes-principales" n="3">
@@ -98,9 +103,13 @@
                 </rdg>
               </app>
               , et cetera. Maior patet de se. Minor probatur quia de ratione
-              subiecti <surplus>quia de ratione subiecti</surplus> est quod
-              habeat partes et passiones quibus subsistet. Anima autem non est
-              huiusmodi, cum sit forma simplex.
+              subiecti
+              <app>
+                <lem n="subiecti" />
+                <rdg wit="#V">quia de ratione subiecti</rdg>
+              </app>
+              est quod habeat partes et passiones quibus subsistet. Anima autem
+              non est huiusmodi, cum sit forma simplex.
             </p>
           </div>
           <div type="rationes-principales" n="5">
@@ -395,7 +404,7 @@
               n="64-r"/><cb ed="#V" n="a"/> de se non habet formam
               intelligibilem in actu, non potest esse scientia. Et quando
               dicitur quod <mentioned>intellectus non habet formam
-              intelligibilem</mentioned> et <supplied>cetera</supplied> <name
+              intelligibilem</mentioned> et <name
               ref="#Themistius">Themistius</name> <unclear>similiter</unclear>
               illud verbi
               <cit>
@@ -468,7 +477,7 @@
               apprehendit se ipsam.
             </p>
           </div>
-          <div type="ad-rationes" n="2">
+          <div type="ad-rationes" n="3">
           <p xml:id="vatican_242-l1q1-kwv80g">
             Ad aliam, cum dicitur <mentioned>de singularibus non est
             scientia</mentioned>, verum est ut sic, et tu dices
@@ -478,7 +487,7 @@
             illud.
           </p>
           </div>
-          <div type="ad-rationes" n="3">
+          <div type="ad-rationes" n="4">
           <p xml:id="vatican_242-l1q1-epx89m">
             Ad aliam dicendum concedendo maiorem. Ad minorem dicendum quod
             <unclear>singularitas/simplicitas</unclear> animae, cum sit
@@ -489,14 +498,13 @@
             subiectum respectu passionum.
           </p>
           </div>
-          <!-- The count of rationes is off somewhere! -->
-          <div type="ad-rationes" n="4">
+          <div type="ad-rationes" n="5">
             <p xml:id="vatican_242-l1q1-gtv45e">
               Ad maiorem ultimae dicendum quod verum est primo, et cum dicitur
-              <mentioned>illud ergo quod non cadit sub sensu</mentioned> et cetera
-              non oportet, sed sufficit quod moveatur ab illo vel specie illius,
-              quod cadit sub sensu, et sic est proposito ut ostensum est prius et
-              cetera.
+              <mentioned>illud ergo quod non cadit sub sensu</mentioned> et
+              cetera non oportet, sed sufficit quod moveatur ab illo vel specie
+              illius, quod cadit sub sensu, et sic est proposito ut ostensum est
+              prius et cetera.
             </p>
           </div>
           <div type="ad-rationes" n="6">
