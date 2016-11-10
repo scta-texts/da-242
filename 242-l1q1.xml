@@ -195,7 +195,7 @@
                 <quote>
                   omne incorporeum est conversivum sui ipsius ab se ipsum
                 </quote>
-                <bibl><name>Proclus</name> XXX</bibl>
+                <bibl>Proclus XXX</bibl>
               </cit>
               . Hoc est quia non habet distantias partium. Corporeum autem non,
               et hoc est quia habet distantias partium. Incorporeum autem, cum
@@ -299,7 +299,7 @@
               substantiam. Sic igitur anima ex cognitione aliorum entium devenit
               in cognitionem sui ipsius, et hoc est quod dicit
               <ref>
-                <name>Albertus</name>
+                <name ref="#Albert">Albertus</name>
                 in libro suo de anima
               </ref>
               . Dicit enim quod
@@ -314,8 +314,9 @@
                   operacionem et deinde veram habet sui ipsius cognicionem.
                 </quote>
                 <bibl>
-                  <name>Albertus Magnus</name>, <title ref="#Albert.De-anima">De anima</title>, Lib. 1,
-                  tract. 1, cap. 1, pp. 2--3, ll. 52--5
+                  <name ref="#Albert">Albertus Magnus</name>, <title
+                  ref="#Albert.De-anima">De anima</title>, Lib. 1, tract. 1,
+                  cap. 1, pp. 2--3, ll. 52--5
                 </bibl>
               </cit>
               . Isto ergo modo devenit anima in cognitionem sui ipsius, et hoc
@@ -348,16 +349,16 @@
           </div>
           <div type="determinatio" n="2">
             <p xml:id="242-l1q1-al2yfv">
-              Ulterius
-              intelligendum quod
-              <cit>
-                <ref>
-                 <name ref="#Aristotle">Philosophus</name> tertio huius
+              Ulterius intelligendum quod
+              <ref>
+                <name ref="#Aristotle">Philosophus</name> tertio huius
                 dicit quod
-                </ref>
+              </ref>
+              <cit>
                 <quote type="paraphrase">
                   intellectus intelligit se ut alia
                 </quote>
+                <bibl>Arist. <title ref="#Arist.DA">DA</title> III.4 430a2--3</bibl>
               </cit>
               , et hoc non est intelligendum quod intellectus intelligat se ut
               alia abstrahendo a sensibilibus, quia tunc esset alius
