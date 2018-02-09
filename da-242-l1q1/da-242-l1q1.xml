@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Quaestiones in libros De anima</title>
+        <title>I.1: Utrum de anima possit esse scientia</title>
         <author>Simon of Faversham</author>
         <editor>Michael Stenskjær Christensen</editor>
       </titleStmt>
@@ -45,11 +45,16 @@
       </div>
     </front>
     <body>
-      <div xml:id="242-l1q1-ggw26y">
+      <div xml:id="da-242-l1q1-ggw26y">
         <gap extent="1" unit="column" reason="editorial decision" />
         <gap extent="38" unit="lines" reason="editorial decision" />
         <div type="rationes-principales">
-          <p xml:id="242-l1q1-kshxy3">
+          <head>
+            <supplied ana="#meta-text">
+              I.1: Utrum de anima possit esse scientia
+            </supplied>
+          </head>
+          <p xml:id="da-242-l1q1-kshxy3">
             Quaeritur utrum de anima possit esse scientia, et arguitur quod non.
           </p>
           <div type="rationes-principales" n="1">
@@ -64,7 +69,7 @@
             </p>
           </div>
           <div type="rationes-principales" n="2">
-            <p xml:id="242-l1q1-ft5qjj">
+            <p xml:id="da-242-l1q1-ft5qjj">
               Item, si quis temptet considerare materiam et substantiam animae,
               statim apperebit
               <app>
@@ -84,13 +89,13 @@
             </p>
           </div>
           <div type="rationes-principales" n="3">
-            <p  xml:id="242-l1q1-jcythg">
+            <p  xml:id="da-242-l1q1-jcythg">
               Item, de singularibus non est scientia, sed animae humanae sunt
               singulares et numeratae numeratione corporum, et cetera.
             </p>
           </div>
           <div type="rationes-principales" n="4">
-            <p  xml:id="242-l1q1-reohsv">
+            <p  xml:id="da-242-l1q1-reohsv">
               Item, de eo non potest esse scientia cui non competit ratio
               subiecti, sed animae non competit ratio
               <app>
@@ -112,7 +117,7 @@
             </p>
           </div>
           <div type="rationes-principales" n="5">
-            <p  xml:id="242-l1q1-9mvjnq">
+            <p  xml:id="da-242-l1q1-9mvjnq">
               Item Avicenna: scientia nostra habet ortum a
               sensu. De illo ergo quod nec per se nec per accidens cadere potest
               sub sensu, non est scientia. Anima solum intellectiva est
@@ -123,7 +128,7 @@
             </p>
           </div>
           <div type="rationes-principales" n="6">
-            <p  xml:id="242-l1q1-jnrd0k">
+            <p  xml:id="da-242-l1q1-jnrd0k">
               <app>
                 <lem wit="#V" type="correction-addition">
                   <add place="left-margin">
@@ -139,7 +144,7 @@
           </div>
         </div>
         <div type="opposita">
-          <p xml:id="242-l1q1-wcqown">
+          <p xml:id="da-242-l1q1-wcqown">
             Oppositum patet per <name ref="#Aristotle">Philosophum</name> et
             arguitur: De eo quod habet diffinitionem, proprietates et passiones,
             quae possunt probari de ipso, potest esse scientia. Nunc autem anima
@@ -170,7 +175,7 @@
             </app>
             praedicari de anima et cetera.
           </p>
-          <p xml:id="242-l1q1-l3pxim">
+          <p xml:id="da-242-l1q1-l3pxim">
             Et hoc etiam patet inducendo in singulis partibus animae, in
             vegetativa, sensitiva et intellectiva. Vegetativa enim partes habet,
             scilicet potentiam, generativam, augmentativam et nutritivam. Habet
@@ -185,11 +190,11 @@
           </p>
         </div>
         <div type="determinatio">
-          <p xml:id="242-l1q1-68rnjd">
+          <p xml:id="da-242-l1q1-68rnjd">
             Intelligendum est quod de anima potest esse sciencia.
           </p>
           <div type="determinatio" n="1">
-            <p xml:id="242-l1q1-8yk9tb">
+            <p xml:id="da-242-l1q1-8yk9tb">
               Sicut enim probat <ref><name ref="#Proclus">Proclus</name></ref>:
               <cit>
                 <quote>
@@ -233,7 +238,7 @@
               intelligendo cognitionem habet de anima. Et ideo per animam
               nostram possumus habere cognitionem de anima.
             </p>
-            <p xml:id="242-l1q1-t9o6b1">
+            <p xml:id="da-242-l1q1-t9o6b1">
               Sed advertendum quod licet anima nostra possit habere cognitionem
               de se ipsa, prius tamen oportet quod habeat cognitionem de aliis
               quam de se ipsa, et ratio huius est quia anima nostra nullam
@@ -246,19 +251,15 @@
               depingi. Omnis enim cognitio in anima est acquisita et istam
               acquirit ex fantasmatibus. Intellectus igitur in actu praesupponit
               <app>
-                <lem wit="#V" type="correction-addition">
+                <lem>fantasiam in actu, fantasia autem in actu praesupponit</lem>
+                <rdg wit="#V" type="correction-addition">
                   <add place="right-margin">
-                    <app>
-                      <lem/>
-                      <rdg wit="#V" type="correction-deletion">
-                        <del rend="expunctuated">
-                          si<abbr type="suspension">u</abbr>
-                        </del>
-                      </rdg>
-                    </app>
+                    <del rend="expunctuated">
+                      si<abbr type="suspension">u</abbr>
+                    </del>
                     fantasiam in actu, fantasia autem in actu praesupponit
                   </add>
-                </lem>
+                </rdg>
               </app>
               sensum in actu. Fantasia enim est modus factus a sensibilibus
               <app>
@@ -348,7 +349,7 @@
             </p>
           </div>
           <div type="determinatio" n="2">
-            <p xml:id="242-l1q1-al2yfv">
+            <p xml:id="da-242-l1q1-al2yfv">
               Ulterius intelligendum quod
               <ref>
                 <name ref="#Aristotle">Philosophus</name> tertio huius
@@ -371,7 +372,7 @@
               intelligit quod per speciem alienam ducitur in actum, et tunc se
               intelligit per speciem propriam.
             </p>
-            <p xml:id="242-l1q1-uerqt2">
+            <p xml:id="da-242-l1q1-uerqt2">
               Et tu dices <quote>quomodo intelliget se per speciem
               propriam</quote>, dicendum quod, ut visum est, species aliqua
               ducit ipsum ad actum de potentia quae species facit unum cum ipso,
@@ -391,11 +392,11 @@
           </div>
         </div>
         <div type="ad-rationes">
-          <p xml:id="vatican_242-l1q1-i1z6yl">
+          <p xml:id="da-242-l1q1-i1z6yl">
             Ad rationes.
           </p>
           <div type="ad-rationes" n="1">
-            <p xml:id="vatican_242-l1q1-oxpzce">
+            <p xml:id="da-242-l1q1-oxpzce">
               Ad primam cum arguitur <mentioned>de eo quod non haberi
               formam</mentioned> et cetera, dico quod de illo quod <pb ed="#V"
               n="64-r"/><cb ed="#V" n="a"/> de se non habet formam
@@ -475,7 +476,7 @@
             </p>
           </div>
           <div type="ad-rationes" n="3">
-          <p xml:id="vatican_242-l1q1-kwv80g">
+          <p xml:id="da-242-l1q1-kwv80g">
             Ad aliam, cum dicitur <mentioned>de singularibus non est
             scientia</mentioned>, verum est ut sic, et tu dices
             <mentioned>animae humanae</mentioned> et cetera, verum est. Et ideo
@@ -485,7 +486,7 @@
           </p>
           </div>
           <div type="ad-rationes" n="4">
-          <p xml:id="vatican_242-l1q1-epx89m">
+          <p xml:id="da-242-l1q1-epx89m">
             Ad aliam dicendum concedendo maiorem. Ad minorem dicendum quod
             <unclear>singularitas/simplicitas</unclear> animae, cum sit
             <unclear>visum</unclear> <unclear>simpli<abbr
@@ -496,7 +497,7 @@
           </p>
           </div>
           <div type="ad-rationes" n="5">
-            <p xml:id="vatican_242-l1q1-gtv45e">
+            <p xml:id="da-242-l1q1-gtv45e">
               Ad maiorem ultimae dicendum quod verum est primo, et cum dicitur
               <mentioned>illud ergo quod non cadit sub sensu</mentioned> et
               cetera non oportet, sed sufficit quod moveatur ab illo vel specie
@@ -505,7 +506,7 @@
             </p>
           </div>
           <div type="ad-rationes" n="6">
-            <p xml:id="vatican_242-l1q1-huz5y7">
+            <p xml:id="da-242-l1q1-huz5y7">
               <add place="left-margin">
                 Ad aliud <mentioned>omnis scientia est de bono</mentioned> et
                 cetera, verum est ad minorem. Dico quod duplex bonum
@@ -518,7 +519,7 @@
               </add>
             </p>
           </div>
-          <p xml:id="vatican_242-l1q1-pjfhzy">
+          <p xml:id="da-242-l1q1-pjfhzy">
             Et notandum quod secundum
             <app>
               <lem n="secundum" />
@@ -539,7 +540,7 @@
             difficultatem, et in hoc ipse reddit auditores attentos ibi
             <quote>omnino autem</quote>.
           </p>
-          <p xml:id="vatican_242-l1q1-22jvug">
+          <p xml:id="da-242-l1q1-22jvug">
             Et intelligendum quod prius ad praesens duobus modis dicitur uno
             modo ordine dignitatis, et sic scientia libri de anima in primis
             debet poni, secundum quod dicit <name
@@ -608,7 +609,7 @@
             communiter <title ref="#Avic.De-anima">Sextus naturalium</title> et
             cetera.
           </p>
-          <p xml:id="vatican_242-l1q1-wuuxmt">
+          <p xml:id="da-242-l1q1-wuuxmt">
             Ulterius notandum quod de passionibus propriis et communibus
             tripliciter exponitur. Uno modo ita quod per passiones proprias
             intelligere possumus illas quae insunt animae principaliter, ut
@@ -618,7 +619,7 @@
             tristitia et cetera, et hoc modo videtur exponere <name
             ref="#Themistius">Themistius</name>.
           </p>
-          <p xml:id="vatican_242-l1q1-h699nk">
+          <p xml:id="da-242-l1q1-h699nk">
             Aliis modis exponit <name ref="#Averroes">Averroes</name>, ita quod
             passiones proprias possumus intelligere quae non sunt permixtae
             organo corporeo, ut intelligere, speculari. Per communes autem illas
@@ -630,14 +631,14 @@
             Passiones autem proprie dicuntur quae insipiunt ab anima et
             terminantur ad corpus, ut intelligere, speculari et cetera.
           </p>
-          <p xml:id="vatican_242-l1q1-wcfn2y">
+          <p xml:id="da-242-l1q1-wcfn2y">
             Et nota quod dicit <name ref="#Aristotle">Philosophus</name>
             <quote>notitiam</quote> et non scientiam, quia scientia proprie
             habet esse per causam, ut patet primo <title
             ref="#Arist.APo">Posteriorum</title>, et quia anima solum
             cognoscitur per effectus et cetera.
           </p>
-          <p xml:id="vatican_242-l1q1-fv2wg4">
+          <p xml:id="da-242-l1q1-fv2wg4">
             Iterum, propter eandem causam dixit <quote>historia
             <unclear>animalium</unclear></quote> et propter hoc etiam quod ante
             tempus suum historia <abbr
