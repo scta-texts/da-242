@@ -57,8 +57,6 @@
     </front>
     <body>
       <div xml:id="da-242-l1q1-ggw26y">
-        <gap extent="1" unit="column" reason="editorial decision" />
-        <gap extent="38" unit="lines" reason="editorial decision" />
         <div type="rationes-principales">
           <head>
             <supplied ana="#meta-text">
@@ -72,16 +70,29 @@
             <p ana="#structure-head">
               Et arguitur quod non.
             </p>
-            <p>
+            <p xml:id="da-242-l1q1-u82f5i">
               De eo quod non habet speciem vel formam intelligibilem non potest
               esse sciencia. Sed anima non habet speciem vel formam
               intelligibilem, et cetera. Maior patet quia scientia <pb ed="#V"
               n="63-v"/><cb ed="#V" n="a"/> non est nisi de intelligibili. Minor
-              patet: <name ref="#Aristotle">Philosophus</name> enim dicit tertio
-              huius quod intellectus noster nihil est actu eorum quae sunt, ergo
+              patet:
+              <cit>
+                <ref>
+                  <name ref="#Aristotle">Philosophus</name>
+                  enim dicit tertio huius
+                </ref>
+                <quote type="paraphrase">
+                  quod intellectus noster nihil est actu eorum quae sunt
+                </quote>
+                <bibl>
+                  <name ref="#Aristotle">Arist.</name>
+                  <title ref="#Arist.DA">DA</title> III.4, 429a22--24.
+                </bibl>
+              </cit>
+              , ergo
               nullam speciem intelligibilem habet, et cetera.
             </p>
-            <div>
+            <div xml:id="da-242-l1q1-jmj603">
               <p xml:id="da-242-l1q1-ft5qjj">
                 Item, si quis temptet considerare materiam et substantiam animae,
                 statim apperebit
@@ -190,23 +201,20 @@
                 <unclear>post<abbr type="superscript">~</abbr></unclear>
               </rdg>
             </app>
-            praedicari de anima et cetera.
-          </p>
-          <p xml:id="da-242-l1q1-l3pxim">
-            Et hoc etiam patet inducendo in singulis partibus animae, in
-            vegetativa, sensitiva et intellectiva. Vegetativa enim partes habet,
-            scilicet potentiam, generativam, augmentativam et nutritivam. Habet
-            etiam passiones quae sunt augere, nutrire et generare. Similiter
-            anima sensitiva habet partes sicut potentiam visivam, auditivam et
-            cetera. Habet etiam passiones quae sunt audire, videre et cetera.
-            Similiter anima intellectiva, de qua maior est
-            difficultas, habet partes, scilicet intellectum agentem et
+            praedicari de anima et cetera. Et hoc etiam patet inducendo in
+            singulis partibus animae, in vegetativa, sensitiva et intellectiva.
+            Vegetativa enim partes habet, scilicet potentiam, generativam,
+            augmentativam et nutritivam. Habet etiam passiones quae sunt augere,
+            nutrire et generare. Similiter anima sensitiva habet partes sicut
+            potentiam visivam, auditivam et cetera. Habet etiam passiones quae
+            sunt audire, videre et cetera. Similiter anima intellectiva, de qua
+            maior est difficultas, habet partes, scilicet intellectum agentem et
             possibilem. Habet etiam proprietates, scilicet intelligere, quae
             convenit intellectui possibili, et abstrahere, quae inest agenti et
             cetera.
           </p>
         </div>
-        <div ana="#determinatio">
+        <div ana="#determinatio" xml:id="da-242-l1q1-8cu34h">
           <p ana="#structure-head" xml:id="da-242-l1q1-68rnjd">
             Intelligendum est quod de anima potest esse sciencia.
           </p>
@@ -337,7 +345,7 @@
                   cap. 1, pp. 2--3, ll. 52--5
                 </bibl>
               </cit>
-              . Isto ergo modo devenit anima in cognitionem sui ipsius, et hoc
+              Isto ergo modo devenit anima in cognitionem sui ipsius, et hoc
               necessarium fuit ponere, quia secundum <name
               ref="#Themistius">Themistium</name> anima de se incerta de aliis
               <add place="right-margin"><unclear>conn()o</unclear></add>
