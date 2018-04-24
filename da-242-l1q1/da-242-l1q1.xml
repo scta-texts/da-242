@@ -72,7 +72,7 @@
             </p>
             <p xml:id="da-242-l1q1-u82f5i">
               De eo quod non habet speciem vel formam intelligibilem non potest
-              esse sciencia. Sed anima non habet speciem vel formam
+              esse scientia. Sed anima non habet speciem vel formam
               intelligibilem, et cetera. Maior patet quia scientia <pb ed="#V"
               n="63-v"/><cb ed="#V" n="a"/> non est nisi de intelligibili. Minor
               patet:
@@ -86,34 +86,30 @@
                 </quote>
                 <bibl>
                   <name ref="#Aristotle">Arist.</name>
-                  <title ref="#Arist.DA">DA</title> III.4, 429a22--24.
+                  <title ref="#Arist.DA">DA</title>
+                  III.4, 429a22--24, cf. 429b30--31.
                 </bibl>
               </cit>
-              , ergo
-              nullam speciem intelligibilem habet, et cetera.
+              , ergo nullam speciem intelligibilem habet, et cetera. Item, si
+              quis temptet considerare materiam et substantiam animae, statim
+              apperebit
+              <app>
+                <lem type="conjecture-corrected">
+                  <corr>ei</corr>
+                </lem>
+                <rdg wit="#V">sibi</rdg>
+              </app>
+              quod non potest eam intelligere nisi per opera sua.
+              <app>
+                <lem n="sua" />
+                <rdg wit="#V">
+                  hoc non est nisi per opera sua <note>'se' in other color and
+                  illegible character in same color above line</note>
+                </rdg>
+              </app>
+              Hoc non est nisi quia ipsa anima nullam formam intelligibilem
+              habet in actu. De anima ergo non potest esse scientia.
             </p>
-            <div xml:id="da-242-l1q1-jmj603">
-              <p xml:id="da-242-l1q1-ft5qjj">
-                Item, si quis temptet considerare materiam et substantiam animae,
-                statim apperebit
-                <app>
-                  <lem type="conjecture-corrected">
-                    <corr>ei</corr>
-                  </lem>
-                  <rdg wit="#V">sibi</rdg>
-                </app>
-                quod non potest eam intelligere nisi per opera sua.
-                <app>
-                  <lem n="sua" />
-                  <rdg wit="#V">
-                    hoc non est nisi per opera sua <note>'se' in other color and
-                    illegible character in same color above line</note>
-                  </rdg>
-                </app>
-                Hoc non est nisi quia ipsa anima nullam formam intelligibilem
-                habet in actu. De anima ergo non potest esse scientia.
-              </p>
-            </div>
             <p  xml:id="da-242-l1q1-jcythg">
               Item, de singularibus non est scientia, sed animae humanae sunt
               singulares et numeratae numeratione corporum, et cetera.
@@ -216,7 +212,7 @@
         </div>
         <div ana="#determinatio" xml:id="da-242-l1q1-8cu34h">
           <p ana="#structure-head" xml:id="da-242-l1q1-68rnjd">
-            Intelligendum est quod de anima potest esse sciencia.
+            Intelligendum est quod de anima potest esse scientia.
           </p>
           <div>
             <p xml:id="da-242-l1q1-8yk9tb">
@@ -248,14 +244,18 @@
               </app>
               unam partem intellectus quam aliam, et ita actus completus
               intelligendi non fieret in nobis, nisi in
-              <unclear>generatione</unclear> magni temporis, et ex hoc
-              sequeretur quod intellectus esset sciens et ignorans, quia
-              secundum unam partem cognosceret aliquid et secundum aliam illud
-              idem ignoraret. Sic etiam sequeretur quod intellectus posset simul
-              multa et contraria intelligere quod est inconveniens. Non enim est
-              possibile quod intellectus noster simul intelligat plura et
-              contraria. Intellectus igitur noster est incorporeus, et per
-              consequens est conversivus sui ipsius ad se ipsum.
+              <app>
+                <lem>generatione</lem>
+                <rdg wit="#L"><unclear>generatione</unclear></rdg>
+              </app>
+              magni temporis, et ex hoc sequeretur quod intellectus esset sciens
+              et ignorans, quia secundum unam partem cognosceret aliquid et
+              secundum aliam illud idem ignoraret. Sic etiam sequeretur quod
+              intellectus posset simul multa et contraria intelligere quod est
+              inconveniens. Non enim est possibile quod intellectus noster simul
+              intelligat plura et contraria. Intellectus igitur noster est
+              incorporeus, et per consequens est conversivus sui ipsius ad se
+              ipsum.
               <cb ed="#V" n="b"/>
               Ipsa autem anima non est conversiva sui ipsius ad se ipsam nisi
               intelligendo suam substantiam et proprietates sibi inherentes, et
@@ -263,6 +263,8 @@
               intelligendo cognitionem habet de anima. Et ideo per animam
               nostram possumus habere cognitionem de anima.
             </p>
+          </div>
+          <div xml:id="da-242-l1q1-14f8lp">
             <p xml:id="da-242-l1q1-t9o6b1">
               Sed advertendum quod licet anima nostra possit habere cognitionem
               de se ipsa, prius tamen oportet quod habeat cognitionem de aliis
@@ -337,7 +339,7 @@
                   cognoscit negotiari circa quiditates sensibilium intelligendo
                   et cognoscendo quiditates eorum, et quia anima cognoscit se
                   sic negotiari circa quiditates sensibilium, percipit suam
-                  operacionem et deinde veram habet sui ipsius cognicionem.
+                  operationem et deinde veram habet sui ipsius cognitionem.
                 </quote>
                 <bibl>
                   <name ref="#Albert">Albertus Magnus</name>, <title
@@ -363,7 +365,7 @@
               </app>
               eorum dependet ex cognitione ipsius animae, propter quod etiam
               <name ref="#Aristotle">Philosophus</name> concludit quod utilis
-              est haec sciencia ad
+              est haec scientia ad
               <app>
                 <lem n="ad" />
                 <rdg wit="#V" type="correction-deletion">
@@ -373,7 +375,7 @@
               omnium veritatem et cetera.
             </p>
           </div>
-          <div>
+          <div xml:id="da-242-l1q1-pjouad">
             <p xml:id="da-242-l1q1-al2yfv">
               Ulterius intelligendum quod
               <ref>
@@ -437,18 +439,18 @@
                 Intellectus nihil est actu eorum que sunt ante addiscere vel
                 invenire
               </quote>
-              <bibl ana="Arist.DA.3-4-429b29" />
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 429a22--24, cf. 429b30--31.
+              </bibl>
             </cit>
-            . Dicit rediculum erit intelligere quia anima nihil sit in actu
+            dicit rediculum erit intelligere quia anima nihil sit in actu
             eorum que sunt, ac si intellectus non sit illud quod ipsum erit,
             planum est enim quod intellectus est illud quod est, quia est
             natura aliqua, et substantia non ergo dicitur sic non esse
+            <surplus>in</surplus>
             <app>
-              <lem type="conjecture-deletion" n="esse" />
-              <rdg wit="#V">in</rdg>
-            </app>
-            <app>
-              <lem n="esse" />
+              <lem n="in" />
               <rdg wit="#V" type="correction-deletion">
                 <del>aliqua</del>
               </rdg>
@@ -502,18 +504,17 @@
             Ad aliam, cum dicitur <mentioned>de singularibus non est
             scientia</mentioned>, verum est ut sic, et tu dices
             <mentioned>animae humanae</mentioned> et cetera, verum est. Et ideo
-            de eis, ut sic non est scientia, tamen de singularibus animabus, ut
+            de eis ut sic non est scientia, tamen de singularibus animabus ut
             conveniunt in natura communi animae, est scientia, et sic patet ad
             illud.
           </p>
           <p xml:id="da-242-l1q1-epx89m">
             Ad aliam dicendum concedendo maiorem. Ad minorem dicendum quod
-            <unclear>singularitas/simplicitas</unclear> animae, cum sit
-            <unclear>visum</unclear> <unclear>simpli<abbr
-            type="superscript">cio</abbr></unclear>, non repugnat ratio
-            subiecti, ut patiat, neque etiam oportet ad hoc quod aliquid sit
-            subiectum quod sit per se subsistens, sed sufficit quod sit
-            subiectum respectu passionum.
+            simplicitas animae, cum sit <unclear>visum</unclear>
+            <unclear>simpli<abbr type="superscript">cio</abbr></unclear>, non
+            repugnat ratio subiecti, ut patiat, neque etiam oportet ad hoc quod
+            aliquid sit subiectum quod sit per se subsistens, sed sufficit quod
+            sit subiectum respectu passionum.
           </p>
           <p xml:id="da-242-l1q1-gtv45e">
             Ad maiorem ultimae dicendum quod verum est primo, et cum dicitur
@@ -639,21 +640,19 @@
             intelligere possumus illas quae insunt animae principaliter, ut
             speculatio et intelligentia. Secundum <name
             ref="#Themistius">Themistium</name> communes autem quae
-            principaliter attribuntur corpori sicut <unclear>de??catio</unclear>
+            principaliter attribuntur corpori sicut delectatio
             tristitia et cetera, et hoc modo videtur exponere <name
-            ref="#Themistius">Themistius</name>.
-          </p>
-          <p xml:id="da-242-l1q1-h699nk">
-            Aliis modis exponit <name ref="#Averroes">Averroes</name>, ita quod
-            passiones proprias possumus intelligere quae non sunt permixtae
-            organo corporeo, ut intelligere, speculari. Per communes autem illas
-            quae fiunt et exercentur organo corporali, ut sensus, fantasia.
-            Tertio modo per passiones communes intelligimus illas quae incipiunt
-            a corpore et terminantur ad animam, ut sompnus et vigilia. In
-            dormiente enim primo ligatur cor, quod est principium vitae, et ex
-            consequenti omnes sensus exteriores cordi deservientes et cetera.
-            Passiones autem proprie dicuntur quae insipiunt ab anima et
-            terminantur ad corpus, ut intelligere, speculari et cetera.
+            ref="#Themistius">Themistius</name>. Aliis modis exponit <name
+            ref="#Averroes">Averroes</name>, ita quod passiones proprias
+            possumus intelligere quae non sunt permixtae organo corporeo, ut
+            intelligere, speculari. Per communes autem illas quae fiunt et
+            exercentur organo corporali, ut sensus, fantasia. Tertio modo per
+            passiones communes intelligimus illas quae incipiunt a corpore et
+            terminantur ad animam, ut sompnus et vigilia. In dormiente enim
+            primo ligatur cor, quod est principium vitae, et ex consequenti
+            omnes sensus exteriores cordi deservientes et cetera. Passiones
+            autem proprie dicuntur quae insipiunt ab anima et terminantur ad
+            corpus, ut intelligere, speculari et cetera.
           </p>
           <p xml:id="da-242-l1q1-wcfn2y">
             Et nota quod dicit <name ref="#Aristotle">Philosophus</name>
