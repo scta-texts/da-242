@@ -214,56 +214,53 @@
           <p ana="#structure-head" xml:id="da-242-l1q1-68rnjd">
             Intelligendum est quod de anima potest esse scientia.
           </p>
-          <div>
-            <p xml:id="da-242-l1q1-8yk9tb">
-              Sicut enim probat <ref><name ref="#Proclus">Proclus</name></ref>:
-              <cit>
-                <quote>
-                  omne incorporeum est conversivum sui ipsius ab se ipsum
-                </quote>
-                <bibl>Proclus XXX</bibl>
-              </cit>
-              . Hoc est quia non habet distantias partium. Corporeum autem non,
-              et hoc est quia habet distantias partium. Incorporeum autem, cum
-              sit indivisibile, est conversivum et cetera. Anima autem est
-              incorporeum aliquid, quia non est magnitudo nec magnitudinem
-              habens. Si enim nos poneremus quod anima esset magnitudo, tunc
-              sicut nos videmus quod mobile pertransit unam partem magnitudinis
-              et postea aliam, et sic pertransit totam magnitudinem in tempore
-              et succesive, sic, si intellectus esset magnitudo, tunc
-              intelligibile tangens intellectum, sive per speciem sive per
-              aliquid aliud, prius
-              <app>
-                <lem>pertransiret</lem>
-                <rdg wit="#V" type="correction-substitution">
-                  <subst>
-                    <add>pertransiret</add>
-                    <del>pertransit</del>
-                  </subst>
-                </rdg>
-              </app>
-              unam partem intellectus quam aliam, et ita actus completus
-              intelligendi non fieret in nobis, nisi in
-              <app>
-                <lem>generatione</lem>
-                <rdg wit="#L"><unclear>generatione</unclear></rdg>
-              </app>
-              magni temporis, et ex hoc sequeretur quod intellectus esset sciens
-              et ignorans, quia secundum unam partem cognosceret aliquid et
-              secundum aliam illud idem ignoraret. Sic etiam sequeretur quod
-              intellectus posset simul multa et contraria intelligere quod est
-              inconveniens. Non enim est possibile quod intellectus noster simul
-              intelligat plura et contraria. Intellectus igitur noster est
-              incorporeus, et per consequens est conversivus sui ipsius ad se
-              ipsum.
-              <cb ed="#V" n="b"/>
-              Ipsa autem anima non est conversiva sui ipsius ad se ipsam nisi
-              intelligendo suam substantiam et proprietates sibi inherentes, et
-              ideo anima nostra se et alias res intelligere potest. Sic autem
-              intelligendo cognitionem habet de anima. Et ideo per animam
-              nostram possumus habere cognitionem de anima.
-            </p>
-          </div>
+          <p xml:id="da-242-l1q1-8yk9tb">
+            Sicut enim probat <ref><name ref="#Proclus">Proclus</name></ref>:
+            <cit>
+              <quote>
+                omne incorporeum est conversivum sui ipsius ab se ipsum
+              </quote>
+              <bibl>Proclus XXX</bibl>
+            </cit>
+            . Hoc est quia non habet distantias partium. Corporeum autem non, et
+            hoc est quia habet distantias partium. Incorporeum autem, cum sit
+            indivisibile, est conversivum et cetera. Anima autem est incorporeum
+            aliquid, quia non est magnitudo nec magnitudinem habens. Si enim nos
+            poneremus quod anima esset magnitudo, tunc sicut nos videmus quod
+            mobile pertransit unam partem magnitudinis et postea aliam, et sic
+            pertransit totam magnitudinem in tempore et succesive, sic, si
+            intellectus esset magnitudo, tunc intelligibile tangens intellectum,
+            sive per speciem sive per aliquid aliud, prius
+            <app>
+              <lem>pertransiret</lem>
+              <rdg wit="#V" type="correction-substitution">
+                <subst>
+                  <add>pertransiret</add>
+                  <del>pertransit</del>
+                </subst>
+              </rdg>
+            </app>
+            unam partem intellectus quam aliam, et ita actus completus
+            intelligendi non fieret in nobis, nisi in
+            <app>
+              <lem>generatione</lem>
+              <rdg wit="#L"><unclear>generatione</unclear></rdg>
+            </app>
+            magni temporis, et ex hoc sequeretur quod intellectus esset sciens
+            et ignorans, quia secundum unam partem cognosceret aliquid et
+            secundum aliam illud idem ignoraret. Sic etiam sequeretur quod
+            intellectus posset simul multa et contraria intelligere quod est
+            inconveniens. Non enim est possibile quod intellectus noster simul
+            intelligat plura et contraria. Intellectus igitur noster est
+            incorporeus, et per consequens est conversivus sui ipsius ad se
+            ipsum.
+            <cb ed="#V" n="b"/>
+            Ipsa autem anima non est conversiva sui ipsius ad se ipsam nisi
+            intelligendo suam substantiam et proprietates sibi inherentes, et
+            ideo anima nostra se et alias res intelligere potest. Sic autem
+            intelligendo cognitionem habet de anima. Et ideo per animam nostram
+            possumus habere cognitionem de anima.
+          </p>
           <div xml:id="da-242-l1q1-14f8lp">
             <p xml:id="da-242-l1q1-t9o6b1">
               Sed advertendum quod licet anima nostra possit habere cognitionem
