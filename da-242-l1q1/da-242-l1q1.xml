@@ -58,11 +58,6 @@
     <body>
       <div xml:id="da-242-l1q1-ggw26y">
         <div type="rationes-principales">
-          <head>
-            <supplied ana="#meta-text">
-              I.1: Utrum de anima possit esse scientia
-            </supplied>
-          </head>
           <p xml:id="da-242-l1q1-kshxy3">
             Quaeritur utrum de anima possit esse scientia.
           </p>
@@ -72,8 +67,8 @@
             </p>
             <p xml:id="da-242-l1q1-u82f5i">
               De eo quod non habet speciem vel formam intelligibilem non potest
-              esse scientia. Sed anima non habet speciem vel formam
-              intelligibilem, et cetera. Maior patet quia scientia <pb ed="#V"
+              esse scientia; sed anima non habet speciem vel formam
+              intelligibilem; et cetera. Maior patet quia scientia <pb ed="#V"
               n="63-v"/><cb ed="#V" n="a"/> non est nisi de intelligibili. Minor
               patet:
               <cit>
@@ -99,24 +94,18 @@
                 </lem>
                 <rdg wit="#V">sibi</rdg>
               </app>
-              quod non potest eam intelligere nisi per opera sua.
-              <app>
-                <lem n="sua" />
-                <rdg wit="#V">
-                  hoc non est nisi per opera sua <note>'se' in other color and
-                  illegible character in same color above line</note>
-                </rdg>
-              </app>
-              Hoc non est nisi quia ipsa anima nullam formam intelligibilem
-              habet in actu. De anima ergo non potest esse scientia.
+              quod non potest eam intelligere nisi per opera sua <surplus>hoc
+              non est nisi per opera sua</surplus>. Hoc non est nisi quia ipsa
+              anima nullam formam intelligibilem habet in actu. De anima ergo
+              non potest esse scientia.
             </p>
             <p  xml:id="da-242-l1q1-jcythg">
-              Item, de singularibus non est scientia, sed animae humanae sunt
-              singulares et numeratae numeratione corporum, et cetera.
+              Item, de singularibus non est scientia; sed animae humanae sunt
+              singulares et numeratae numeratione corporum; et cetera.
             </p>
             <p  xml:id="da-242-l1q1-reohsv">
               Item, de eo non potest esse scientia cui non competit ratio
-              subiecti, sed animae non competit ratio
+              subiecti; sed animae non competit ratio
               <app>
                 <lem>subiecti, et non est per se subsistens</lem>
                 <rdg wit="#V" type="correction-addition">
@@ -125,23 +114,19 @@
                   </add>
                 </rdg>
               </app>
-              , et cetera. Maior patet de se. Minor probatur quia de ratione
-              subiecti
-              <app>
-                <lem n="subiecti" />
-                <rdg wit="#V">quia de ratione subiecti</rdg>
-              </app>
-              est quod habeat partes et passiones quibus subsistet. Anima autem
-              non est huiusmodi, cum sit forma simplex.
+              ; et cetera. Maior patet de se. Minor probatur quia de ratione
+              subiecti <surplus>quia de ratione subiecti</surplus> est quod
+              habeat partes et passiones quibus subsistet; anima autem non est
+              huiusmodi, cum sit forma simplex.
             </p>
             <p  xml:id="da-242-l1q1-9mvjnq">
               Item Avicenna: scientia nostra habet ortum a
               sensu. De illo ergo quod nec per se nec per accidens cadere potest
-              sub sensu, non est scientia. Anima solum intellectiva est
-              huiusmodi, et cetera. Quod non per se patet, sed quod non per
-              accidens probatio quia hoc esset per actum suum, sed eius operatio
+              sub sensu, non est scientia; anima solum intellectiva est
+              huiusmodi; et cetera. Quod non per se patet, sed quod non per
+              accidens probatio quia hoc esset per actum suum; sed eius operatio
               est separata, sicut et substantia, quia non transit in materiam
-              extra, et cetera.
+              extra; et cetera.
             </p>
             <p  xml:id="da-242-l1q1-jnrd0k">
               <app>
@@ -218,13 +203,13 @@
             Sicut enim probat <ref><name ref="#Proclus">Proclus</name></ref>:
             <cit>
               <quote>
-                omne incorporeum est conversivum sui ipsius ab se ipsum
+                omne incorporeum est conversivum sui ipsius ad se ipsum
               </quote>
               <bibl>Proclus XXX</bibl>
             </cit>
-            . Hoc est quia non habet distantias partium. Corporeum autem non, et
-            hoc est quia habet distantias partium. Incorporeum autem, cum sit
-            indivisibile, est conversivum et cetera. Anima autem est incorporeum
+            . Hoc est quia non habet distantias partium, corporeum autem non, et
+            hoc est quia habet distantias partium, incorporeum autem cum sit
+            indivisibile est conversivum, et cetera. Anima autem est incorporeum
             aliquid, quia non est magnitudo nec magnitudinem habens. Si enim nos
             poneremus quod anima esset magnitudo, tunc sicut nos videmus quod
             mobile pertransit unam partem magnitudinis et postea aliam, et sic
@@ -256,7 +241,7 @@
             ipsum.
             <cb ed="#V" n="b"/>
             Ipsa autem anima non est conversiva sui ipsius ad se ipsam nisi
-            intelligendo suam substantiam et proprietates sibi inherentes, et
+            intelligendo suam substantiam et proprietates sibi inhaerentes, et
             ideo anima nostra se et alias res intelligere potest. Sic autem
             intelligendo cognitionem habet de anima. Et ideo per animam nostram
             possumus habere cognitionem de anima.
@@ -275,12 +260,11 @@
               depingi. Omnis enim cognitio in anima est acquisita et istam
               acquirit ex fantasmatibus. Intellectus igitur in actu praesupponit
               <app>
-                <lem>fantasiam in actu, fantasia autem in actu praesupponit</lem>
+                <lem>
+                  fantasiam in actu, fantasia autem in actu praesupponit
+                </lem>
                 <rdg wit="#V" type="correction-addition">
                   <add place="right-margin">
-                    <del rend="expunctuated">
-                      si<abbr type="suspension">u</abbr>
-                    </del>
                     fantasiam in actu, fantasia autem in actu praesupponit
                   </add>
                 </rdg>
@@ -426,7 +410,7 @@
             intelligibilem in actu, non potest esse scientia. Et quando
             dicitur quod <mentioned>intellectus non habet formam
             intelligibilem</mentioned> et <name
-            ref="#Themistius">Themistius</name> <unclear>similiter</unclear>
+            ref="#Themistius">Themistius</name> similiter
             illud verbi
             <cit>
               <ref>
@@ -437,8 +421,8 @@
                 invenire
               </quote>
               <bibl>
-                <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.DA">DA</title> III.4, 429a22--24, cf. 429b30--31.
+                <name ref="#Aristotle">Arist.</name> <title
+                ref="#Arist.DA">DA</title> III.4, 429a22--24, cf. 429b30--31.
               </bibl>
             </cit>
             dicit rediculum erit intelligere quia anima nihil sit in actu
@@ -507,8 +491,7 @@
           </p>
           <p xml:id="da-242-l1q1-epx89m">
             Ad aliam dicendum concedendo maiorem. Ad minorem dicendum quod
-            simplicitas animae, cum sit <unclear>visum</unclear>
-            <unclear>simpli<abbr type="superscript">cio</abbr></unclear>, non
+            simplicitas animae, cum sit <unclear>visum</unclear> simplicia, non
             repugnat ratio subiecti, ut patiat, neque etiam oportet ad hoc quod
             aliquid sit subiectum quod sit per se subsistens, sed sufficit quod
             sit subiectum respectu passionum.
@@ -521,19 +504,24 @@
             prius et cetera.
           </p>
           <p xml:id="da-242-l1q1-huz5y7">
-            <add place="left-margin">
-              Ad aliud <mentioned>omnis scientia est de bono</mentioned> et
-              cetera, verum est ad minorem. Dico quod duplex bonum
-              <gap extent="2" unit="lines" reason="reproduction" />
-              <unclear>apparentia</unclear>
-              <gap extent="4" unit="lines" reason="reproduction" />
-              <gap extent="2" unit="characters" reason="reproduction" />
-              bonum
-              <gap extent="1" unit="lines" reason="reproduction" />
-            </add>
+            <app>
+              <lem wit="#V" type="correction-addition">
+                <add place="left-margin">
+                  Ad aliud <mentioned>omnis scientia est de bono</mentioned> et
+                  cetera, verum est ad minorem. Dico quod duplex bonum
+                  <gap extent="2" unit="lines" reason="reproduction" />
+                  <unclear>apparentia</unclear>
+                  <gap extent="4" unit="lines" reason="reproduction" />
+                  <gap extent="2" unit="characters" reason="reproduction" />
+                  bonum
+                  <gap extent="1" unit="lines" reason="reproduction" />
+                </add>
+              </lem>
+            </app>
           </p>
         </div>
-        <div ana="#determinatio">
+        <div xml:id="da-242-l1q1-779hot" ana="#determinatio">
+          <div xml:id="da-242-l1q1-ha6vmi">
           <p xml:id="da-242-l1q1-pjfhzy">
             Et notandum quod secundum
             <app>
@@ -662,6 +650,7 @@
             type="superscript"><unclear>se/ce</unclear></abbr> fuit scripta et
             cetera.
           </p>
+          </div>
         </div>
       </div>
     </body>
